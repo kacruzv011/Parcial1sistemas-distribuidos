@@ -2,7 +2,7 @@
 **Programa de Física**  
 *Universidad Distrital Francisco José de Caldas*
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este repositorio contiene la solución al primer parcial de Sistemas Distribuidos, donde se implementa una simulación numérica de un oscilador armónico amortiguado con fuerza externa periódica:
 mẍ + cẋ + kx = F₀cos(ωt)
@@ -13,14 +13,14 @@ El proyecto demuestra:
 - Generación automatizada de resultados
 - Análisis físico de sistemas dinámicos
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Lenguaje**: C++17 (simulación núcleo)
 - **Visualización**: Python 3 con Matplotlib
 - **Build System**: Makefile
 - **Documentación**: LaTeX (informe científico)
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 /proyecto_parcial/
 
 ├── include/ # Headers (.h)
@@ -35,7 +35,7 @@ El proyecto demuestra:
 
 └── graficar.py # Script de visualización
 
-## ⚡ Instalación y Ejecución
+##  Instalación y Ejecución
 
 1. Clonar repositorio:
    ```bash
@@ -43,5 +43,5 @@ El proyecto demuestra:
    cd proyecto_parcial
    make full  # Compila, ejecuta y genera gráficas
    make       # Solo compilación
-  make run   # Ejecutar simulación
-  make clean # Limpiar archivos generados
+   make run   # Ejecutar simulación
+   make clean # Limpiar archivos generados
