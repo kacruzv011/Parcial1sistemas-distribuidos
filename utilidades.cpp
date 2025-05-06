@@ -43,7 +43,7 @@ void runSimulations() {
     const double forceAmplitude = 2.0;
     const double forceFrequency = 3.0;
     const double dt = 0.01;
-    const int simulationSteps = 3000;
+    const int simulationSteps = 10000;
 
     // Valores de amortiguamiento a probar
     std::vector<double> dampingValues = {0.5, 1.0, 2.0};
