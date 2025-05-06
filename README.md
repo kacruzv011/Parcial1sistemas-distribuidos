@@ -39,7 +39,7 @@ El proyecto demuestra:
 
 1. Clonar repositorio:
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone https://github.com/kacruzv011/Parcial1sistemas-distribuidos.git
    cd proyecto_parcial
    make full  # Compila, ejecuta y genera gráficas
    make       # Solo compilación
