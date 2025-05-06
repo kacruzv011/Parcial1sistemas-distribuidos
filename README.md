@@ -22,11 +22,17 @@ El proyecto demuestra:
 
 ## 📂 Estructura del Proyecto
 /proyecto_parcial/
+
 ├── include/ # Headers (.h)
+
 ├── src/ # Código fuente (.cpp)
+
 ├── graficas/ # Resultados gráficos
+
 ├── informe/ # Documentación LaTeX
+
 ├── Makefile # Sistema de construcción
+
 └── graficar.py # Script de visualización
 
 ## ⚡ Instalación y Ejecución
